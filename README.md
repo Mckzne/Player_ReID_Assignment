@@ -16,7 +16,7 @@ This pipeline:
   - Team label
   - Frame number
 
-All logic is modular and built from scratch without relying on prebuilt tracking packages like ByteTrack.
+All logic is modular and built from scratch without relying on prebuilt tracking packages.
 
 
 ##  How to Set Up and Run
