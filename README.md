@@ -24,7 +24,7 @@ All logic is modular and built from scratch without relying on prebuilt tracking
 > Built and tested on **Kaggle Kernels** using a **Tesla P100 GPU**.
 
 ###  Input Requirements
-All input files are found at: https://drive.google.com/drive/folders/1laqqIHzpU8v9i16mL3I4ZWOW3LflgDRG?usp=sharing
+All input files are found at: https://drive.google.com/drive/folders/1laqqIHzpU8v9i16mL3I4ZWOW3LflgDRG?usp=sharing . 
 Place the following in your `/input/` directory:
 - `15sec_input_720p.mp4`: The input soccer video (as a dataset)
 - YOLOv11 checkpoint (`best.pt`) (as a model)
