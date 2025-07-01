@@ -25,9 +25,9 @@ All logic is modular and built from scratch without relying on prebuilt tracking
 
 ###  Input Requirements
 Place the following in your `/input/` directory:
-- `15sec_input_720p.mp4`: The input soccer video
-- YOLOv11 checkpoint (`best.pt`)
-- CLIP-ReID repo and ViT-B/16 weights (`weights_e8.pth`)
+- `15sec_input_720p.mp4`: The input soccer video (as a dataset)
+- YOLOv11 checkpoint (`best.pt`) (as a model)
+- CLIP-ReID repo and ViT-B/16 weights (`weights_e8.pth`) (as datasets)
 - Running this notebook on Kaggle avoids the need to change any file paths or environment settings — all input/output locations are already tailored for the Kaggle runtime.
 > These paths are already hardcoded into the notebook using `/kaggle/input/...`
 
